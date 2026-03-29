@@ -1,4 +1,4 @@
-name: Manual Reel Factory
+name: Test My Factory
 on:
   workflow_dispatch: # زرار التشغيل المانيوال
 
